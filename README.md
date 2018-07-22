@@ -2,9 +2,9 @@
 
  copy and paste next lines into console : 
 
-  amount: 100000
-  interest: 5.5%
-  downpayment: 20000
-  term: 30
+  amount: 100000<br>
+  interest: 5.5<br>
+  downpayment: 20000<br>
+  term: 30<br>
 
 and press enter twice
