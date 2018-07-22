@@ -2,10 +2,5 @@
 *.user
 /packages
 /.idea
-/Syntaro.Portal.Web/.idea
 bin
 obj
-
-/Syntaro.Portal.Web/npm-debug.log
-/Syntaro.Portal.Web/mochawesome-report
-/Syntaro.Portal.Web/cypress/videos
